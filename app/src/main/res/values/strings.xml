@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Halawa</string>
+    <string name="foodator">Halawa</string>
+    <string name="food_delivery_app">Food Delivery App</string>
+    <string name="get_started">Welcome</string>
+    <string name="food">Food</string>
+    <string name="categories">Categories</string>
+    <string name="BBQ">BBQ</string>
+    <string name="grill_Fish">Grill Fish</string>
+    <string name="fried_chicken">Fried Chicken</string>
+    <string name="Syrian_food">Syrian Food</string>
+    <string name="Home">Home</string>
+    <string name="Profile">Profile</string>
+    <string name="Support">Support</string>
+    <string name="Settings">Settings</string>
+    <string name="syrian">Syrian</string>
+    <string name="resturants">Resturants</string>
+    <string name="pound">Pound</string>
+    <string name="NoInternet">No Internet</string>
+    <string name="Retry">Retry</string>
+    <string name="Km">Km</string>
+    <string name="price">Price :</string>
+    <string name="qty">QTY :</string>
+    <string name="meal_name">Meal Name :</string>
+    <string name="subtotal">Subtotal :</string>
+    <string name="delivery">Delivery :</string>
+    <string name="time">Time :</string>
+    <string name="total">Total :</string>
+    <string name="checkout">Check Out</string>
+    <string name="checked">Checked</string>
+</resources>

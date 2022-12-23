@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyApplication4/app/src/main/res/drawable/orange_button.xml" value="0.1135" />
+        <entry key="..\:/MyApplication4/app/src/main/res/layout/activity_cart.xml" value="0.25" />
+        <entry key="..\:/MyApplication4/app/src/main/res/layout/activity_custom_list_view.xml" value="0.25" />
+        <entry key="..\:/MyApplication4/app/src/main/res/layout/activity_forget_password.xml" value="0.25" />
+        <entry key="..\:/MyApplication4/app/src/main/res/layout/activity_fourth.xml" value="0.25" />
+        <entry key="..\:/MyApplication4/app/src/main/res/layout/activity_list_cart.xml" value="0.25" />
+        <entry key="..\:/MyApplication4/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/MyApplication4/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/MyApplication4/app/src/main/res/layout/activity_no_internet.xml" value="0.25" />
+        <entry key="..\:/MyApplication4/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/MyApplication4/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/MyApplication4/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/MyApplication4/app/src/main/res/layout/activity_third_avtivity.xml" value="0.25" />
+        <entry key="..\:/project/MyApplication4/app/src/main/res/layout/activity_cart.xml" value="0.25" />
+        <entry key="..\:/project/MyApplication4/app/src/main/res/layout/activity_fourth.xml" value="0.25" />
+        <entry key="..\:/project/MyApplication4/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/project/MyApplication4/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/project/MyApplication4/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/project/MyApplication4/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

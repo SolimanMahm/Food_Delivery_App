@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870780950377",
+    "project_id": "auth-76851",
+    "storage_bucket": "auth-76851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870780950377:android:b48af910bb4b6d014d8ff8",
+        "android_client_info": {
+          "package_name": "com.solimanmahmoud.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870780950377-ihihsc1483ann5kqj6udbbt76v2l8sr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbdKPiO-50CEL2SaplBxM3UyxtepY4aZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870780950377-ihihsc1483ann5kqj6udbbt76v2l8sr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
